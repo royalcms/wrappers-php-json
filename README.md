@@ -18,7 +18,7 @@ This package contains most useful wrappers for native PHP functions.
 Require this package with composer using the following command:
 
 ```shell
-$ composer require tarampampam/wrappers-php "^2.0"
+$ composer require royalcms/wrappers-php-json "^2.0"
 ```
 
 > Installed `composer` is required ([how to install composer][getcomposer]).
